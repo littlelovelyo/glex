@@ -7,3 +7,6 @@ Features implemented in previous version have to be rewritten because I scrapped
 * Scriptable render pipeline (experimental)
 * Python scripting (using elegant C++ template)
 * GUI
+
+## Demostration
+Go to: https://www.bilibili.com/list/436413849/?sid=4749301
