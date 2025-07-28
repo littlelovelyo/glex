@@ -10,5 +10,5 @@ Features implemented in previous version have to be rewritten because I scrapped
 * Scriptable render pipeline supporting both C++ and Python (experimental)
 * GUI
 
-## Demostration
+## Demonstration
 Go to: https://www.bilibili.com/list/436413849/?sid=4749301
