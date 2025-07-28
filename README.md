@@ -1,5 +1,6 @@
 # glex
 A game engine written in C++ and Vulkan.
+This engine is not finished yet. Some features are not fully implemented, and it still contains some legacy code from OpenGL.
 
 ## Implemented features
 Features implemented in previous version have to be rewritten because I scrapped OpenGL for Vulkan.
